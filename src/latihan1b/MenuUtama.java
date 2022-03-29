@@ -169,6 +169,7 @@ public class MenuUtama extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
+// Merupakan menu utama
                 MenuUtama maulana=new MenuUtama();
                 maulana.setLocationRelativeTo(null);
                 maulana.setVisible(true);
